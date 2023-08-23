@@ -1,0 +1,29 @@
+{
+	"name": "trendyol-review-taker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "ts-node-dev --respawn --transpile-only ./src/index.ts"
+	},
+	"types": "module",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/body-parser": "^1.19.2",
+		"@types/http-errors": "^2.0.1",
+		"@types/lodash": "^4.14.197",
+		"body-parse": "^0.1.0",
+		"cheerio": "^1.0.0-rc.12",
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"http-errors": "^2.0.0",
+		"joi": "^17.9.2",
+		"lodash": "^4.17.21",
+		"prisma": "^5.2.0",
+		"puppeteer": "^21.1.0",
+		"ts-node-dev": "^2.0.0",
+		"typescript": "^5.1.6"
+	}
+}

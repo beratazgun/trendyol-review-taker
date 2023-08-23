@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "arrowParens": "always",
+  "semi": false,
+  "bracketSpacing": true,
+  "printWidth": 80,
+  "useTabs": true,
+  "bracketSameLine": true
+}
